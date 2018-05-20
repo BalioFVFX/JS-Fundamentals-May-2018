@@ -40,5 +40,3 @@ function solution(input){
     }
     console.log(`Left money: ${balance.toFixed(2)} lv.`);
 }
-
-solution(['3124.15','504.212', '2511.124']);
